@@ -6,3 +6,5 @@ MY TO-DO LIST
 4. Attend classes on time.
 5. Visit aunt.
 6. Apply for remote jobs. 
+7. Self development
+8. Apply for jobs
